@@ -34,7 +34,7 @@
 - 🎓 **Bachelor's Degree in Computer Science**
 - 💻 **Software Developer focused on Backend Technologies**
 - 🚀 **Status:** Open to Junior & Trainee opportunities
-- 🌱 **Current Stack:** Python, C#, HTML, JavaScript, Java & SQL
+- 🌱 **Current Stack:** Python, C#, HTML, JavaScript, Terraform, AWS, Java & SQL
 - 📧 **Email:** [fabiolrocha25@gmail.com](mailto:fabiolrocha25@gmail.com)
 
 </details>
